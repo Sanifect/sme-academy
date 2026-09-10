@@ -1,18 +1,17 @@
 # Sanifect SME Academy
 
-**Live HTML for Grok / any browser:** this repository.
+Public HTML for the Sanifect ICM academy.
 
-Sanifect is infection control management. We sit with each client’s specific challenge, establish a pathway and training, and work toward a measurable health outcome. **Nanocyn Advanced** is the listed hospital-grade product we endorse when that pathway needs it — not the whole company.
+**Open the page:** https://htmlpreview.github.io/?https://github.com/Sanifect/sme-academy/blob/main/index.html
 
-- Listed SKU: **Nanocyn Advanced, AUST L 520725** (never TGA approved)
-- Sponsor: MicroSafe Care Australia Pty Ltd
-- Distributor / ICM partner: Sanifect ICM Pty Ltd
-- Argus owns Sanifect public copy
+**Repo:** https://github.com/Sanifect/sme-academy
 
-## Open
+Sanifect is infection control management: each client challenge, a pathway, training, and a measurable health outcome. Nanocyn Advanced (AUST L 520725, Listed) is the product we endorse when that pathway needs it. Never TGA approved.
 
-- GitHub: https://github.com/Sanifect/sme-academy
-- HTML preview (once files are on `main`): https://htmlpreview.github.io/?https://github.com/Sanifect/sme-academy/blob/main/index.html
-- GitHub Pages (when enabled): https://sanifect.github.io/sme-academy/
+## Files
 
-Sign in on the page to run slides and quizzes. Progress stays in that browser.
+- `index.html` — the page
+- `css/app.css` — brand and layout
+- `js/app.js` — academy app
+- `js/data.js` — units and evidence desk
+- `assets/logo.svg` — wordmark
